@@ -1,0 +1,11 @@
+{
+  "name": "campus-portal",
+  "private": true,
+  "workspaces": ["host", "analytics", "records"],
+  "scripts": {
+    "start:host": "npm start -w host",
+    "start:analytics": "npm start -w analytics",
+    "start:records": "npm start -w records",
+    "build": "npm run build -w analytics && npm run build -w records && npm run build -w host"
+  }
+}
