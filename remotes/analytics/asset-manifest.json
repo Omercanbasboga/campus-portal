@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/campus-portal/remotes/analytics/static/js/main.2e6da4ff.js",
+    "analytics.js": "/campus-portal/remotes/analytics/remoteEntry.js",
+    "static/js/293.0d800989.chunk.js": "/campus-portal/remotes/analytics/static/js/293.0d800989.chunk.js",
+    "static/js/842.604930ae.chunk.js": "/campus-portal/remotes/analytics/static/js/842.604930ae.chunk.js",
+    "static/js/79.053d39dc.chunk.js": "/campus-portal/remotes/analytics/static/js/79.053d39dc.chunk.js",
+    "static/js/643.096e7dce.chunk.js": "/campus-portal/remotes/analytics/static/js/643.096e7dce.chunk.js",
+    "static/js/659.78b976f3.chunk.js": "/campus-portal/remotes/analytics/static/js/659.78b976f3.chunk.js",
+    "static/js/766.35bc0a52.chunk.js": "/campus-portal/remotes/analytics/static/js/766.35bc0a52.chunk.js",
+    "static/js/461.443581d9.chunk.js": "/campus-portal/remotes/analytics/static/js/461.443581d9.chunk.js",
+    "static/js/460.d024f930.chunk.js": "/campus-portal/remotes/analytics/static/js/460.d024f930.chunk.js",
+    "static/js/275.11a7ae6d.chunk.js": "/campus-portal/remotes/analytics/static/js/275.11a7ae6d.chunk.js",
+    "static/js/313.1508cec2.chunk.js": "/campus-portal/remotes/analytics/static/js/313.1508cec2.chunk.js",
+    "static/js/749.5c04f8a8.chunk.js": "/campus-portal/remotes/analytics/static/js/749.5c04f8a8.chunk.js",
+    "static/js/489.5f805977.chunk.js": "/campus-portal/remotes/analytics/static/js/489.5f805977.chunk.js",
+    "index.html": "/campus-portal/remotes/analytics/index.html",
+    "main.2e6da4ff.js.map": "/campus-portal/remotes/analytics/static/js/main.2e6da4ff.js.map",
+    "remoteEntry.js.map": "/campus-portal/remotes/analytics/remoteEntry.js.map",
+    "293.0d800989.chunk.js.map": "/campus-portal/remotes/analytics/static/js/293.0d800989.chunk.js.map",
+    "842.604930ae.chunk.js.map": "/campus-portal/remotes/analytics/static/js/842.604930ae.chunk.js.map",
+    "79.053d39dc.chunk.js.map": "/campus-portal/remotes/analytics/static/js/79.053d39dc.chunk.js.map",
+    "643.096e7dce.chunk.js.map": "/campus-portal/remotes/analytics/static/js/643.096e7dce.chunk.js.map",
+    "659.78b976f3.chunk.js.map": "/campus-portal/remotes/analytics/static/js/659.78b976f3.chunk.js.map",
+    "766.35bc0a52.chunk.js.map": "/campus-portal/remotes/analytics/static/js/766.35bc0a52.chunk.js.map",
+    "461.443581d9.chunk.js.map": "/campus-portal/remotes/analytics/static/js/461.443581d9.chunk.js.map",
+    "460.d024f930.chunk.js.map": "/campus-portal/remotes/analytics/static/js/460.d024f930.chunk.js.map",
+    "275.11a7ae6d.chunk.js.map": "/campus-portal/remotes/analytics/static/js/275.11a7ae6d.chunk.js.map",
+    "313.1508cec2.chunk.js.map": "/campus-portal/remotes/analytics/static/js/313.1508cec2.chunk.js.map",
+    "749.5c04f8a8.chunk.js.map": "/campus-portal/remotes/analytics/static/js/749.5c04f8a8.chunk.js.map",
+    "489.5f805977.chunk.js.map": "/campus-portal/remotes/analytics/static/js/489.5f805977.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2e6da4ff.js"
+  ]
+}
